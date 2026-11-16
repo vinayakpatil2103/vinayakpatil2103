@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there 👋, I'm Vinayak Patil
 
-<!--
-**vinayakpatil2103/vinayakpatil2103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Java Full Stack Developer | MCA Postgraduate
 
-Here are some ideas to get you started:
+I'm a passionate developer interested in building scalable Web applications and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working on Java Development projects.
+- 🌱 I'm currently learning **Spring Boot, REST APIs, and React.js**.
+- 👯 I'm looking to collaborate on Java and Web Development projects.
+- 💬 Ask me about **Java, SQL, Spring Boot, HTML, CSS, JavaScript, and React**.
+- 🛠️ Tools: Git, GitHub, IntelliJ IDEA, VS Code, MySQL, Maven, Postman.
+- 📫 Connect with me: LinkedIn | GitHub
+- ⚡ Fun fact: Always learning, always building! 🚀
